@@ -1,0 +1,12 @@
+# content/index.smd
+---
+.title = "Quantum AI Research Hub"
+.layout = "base.shtml"
+---
+Welcome to **Qompass AI** - Helping You Navigate the Deep Waters of Deep Tech.
+
+%%{init: {'theme': 'dark'}}%%
+graph LR
+    Quantum[Quantum Algorithms] --> Healthcare[Medical Imaging]
+    Quantum --> Education[Personalized Learning]
+
