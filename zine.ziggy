@@ -1,38 +1,30 @@
 // zine.ziggy
 //-----------------------
 //Copyright (C) 2025 Qompass AI, All rights reserved
-const zine = @import("zine");
 
-pub const site = zine.Site{
-    .base_url = "https://phaedrusflow.github.io",
-    .content_dir = "content",
-    .layouts_dir = "layouts",
-    .assets_dir = "assets",
-    .output_dir = "public",
-    
-    .site_title = "Qompass AI Founder Github",
-    .site_description = "Quality AI Adoption Solutions as a Service",
-    .author = "Matthew A. Porter",
-    .language = "en-US",
-    
-    .math = true,
-    .mermaid = true,
-    .code_highlighting = true,
-    
-    .social = .{
-        .twitter = "PhaedrusFlow",
-        .github = "phaedrusflow"
-    },
-    
-    .static_assets = &.{
+Multilingual = {
+    host_url = "https://phaedrusflow.github.io",
+    i18n_dir_path = "i18n", // If you don't have this, you can remove or leave as is
+    layouts_dir_path = "layouts",
+    assets_dir_path = "assets",
+    static_assets = [
         "favicon.ico",
         "CNAME",
-        .{ .src = "assets", .dst = "/" }
-    },
-    
-    .theme = .{
-        .primary = "#76B900",
-        .secondary = "#0668E1",
-        .dark_mode = true
-    }
-};
+        { src = "assets/icons", dst = "icons" },
+        { src = "assets/images", dst = "images" }
+    ],
+    locales = [
+        {
+            code = "en-US",
+            name = "English",
+            site_title = "Qompass AI Founder Github",
+            site_description = "Quality AI Adoption Solutions as a Service",
+            author = "Matthew A. Porter",
+            language = "en-US",
+            content_dir_path = "content",
+            output_prefix_override = "", // Optional, can omit if not needed
+        }
+        // Add more locales here if you want to support multiple languages
+    ]
+}
+
