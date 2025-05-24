@@ -2,29 +2,27 @@
 //-----------------------
 //Copyright (C) 2025 Qompass AI, All rights reserved
 
-Multilingual = {
-    host_url = "https://phaedrusflow.github.io",
-    i18n_dir_path = "i18n", // If you don't have this, you can remove or leave as is
-    layouts_dir_path = "layouts",
-    assets_dir_path = "assets",
-    static_assets = [
+Multilingual {
+    .host_url = "https://phaedrusflow.github.io",
+    .i18n_dir_path = "i18n",
+    .layouts_dir_path = "layouts",
+    .assets_dir_path = "assets",
+    .static_assets = [
         "favicon.ico",
         "CNAME",
         { src = "assets/icons", dst = "icons" },
         { src = "assets/images", dst = "images" }
     ],
-    locales = [
+    .locales = [
         {
-            code = "en-US",
-            name = "English",
-            site_title = "Qompass AI Founder Github",
-            site_description = "Quality AI Adoption Solutions as a Service",
-            author = "Matthew A. Porter",
-            language = "en-US",
-            content_dir_path = "content",
-            output_prefix_override = "", // Optional, can omit if not needed
+            .code = "en-US",
+            .name = "English",
+            .site_title = "Qompass AI Founder Github",
+            .site_description = "Quality AI Adoption Solutions as a Service",
+            .author = "Matthew A. Porter",
+            .language = "en-US",
+            .content_dir_path = "content",
+            .output_prefix_override = "",
         }
-        // Add more locales here if you want to support multiple languages
     ]
 }
-
