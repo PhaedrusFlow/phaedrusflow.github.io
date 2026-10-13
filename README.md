@@ -12,12 +12,10 @@
 <h3>A: Building safe, secure, and trustworthy systems supporting responsible innovation on-prem and on-device.</h3>
 
 <p align="center">
-  <a href="https://www.gnu.org/licenses/agpl-3.0">
-    <img src="https://img.shields.io/badge/License-AGPL%20v3-blue.svg" alt="License: AGPL v3">
-  </a>
+
   <a href="./LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License: Apache 2.0"></a>
   <img src="https://komarev.com/ghpvc/?username=phaedrusflow" alt="Profile Views">
-  
+
   ![GitHub all releases](https://img.shields.io/github/downloads/phaedrusflow/phaedrusflow/total?style=flat-square)
 
 </p>
@@ -34,7 +32,7 @@
 </p>
 
 <div class="tech-pyramid" style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
-  
+
   <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
   <a href="https://github.com/qompassai/html" class="icon-link">
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="30" height="30" title="HTML"/>
@@ -73,7 +71,7 @@
     <img src="https://skillicons.dev/icons?i=astro" alt="Astro" width="30" height="30" title="Astro"/>
   </a>
 </div>
-  
+
  <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
   <a href="https://github.com/qompassai/svelte" class="icon-link">
     <img src="https://skillicons.dev/icons?i=svelte" alt="Svelte" width="30" height="30" title="Svelte"/>
@@ -301,7 +299,7 @@
 
 <h3 align="center">Developer Programs</h3>
 <div align="center">
- 
+
 [![NVIDIA Developer](https://img.shields.io/badge/NVIDIA-Developer_Program-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/)
 [![Meta Developer](https://img.shields.io/badge/Meta-Developer_Program-0668E1?style=for-the-badge&logo=meta&logoColor=white)](https://developers.facebook.com/)
 [![HackerOne](https://img.shields.io/badge/-HackerOne-%23494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/phaedrusflow)
@@ -324,7 +322,7 @@
 <details id="Research">
   <summary><strong>Current Research</strong></summary>
 <div align="center">
- 
+
   <h3>Professional Profiles</h3>
   <p>
     <a href="https://www.linkedin.com/in/matt-a-porter-103535224/">
@@ -334,7 +332,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-Qompass--AI-blue?style=flat-square&logo=linkedin" alt="Startup LinkedIn">
     </a>
   </p>
-  
+
   <h3>Social Media</h3>
   <p>
     <a href="https://twitter.com/PhaedrusFlow">
@@ -347,7 +345,7 @@
       <img src="https://img.shields.io/badge/YouTube-QompassAI-red?style=flat-square&logo=youtube" alt="YouTube">
     </a>
   </p>
-  
+
 <div align="center">
 <h3>Support & Funding</h3>
 
