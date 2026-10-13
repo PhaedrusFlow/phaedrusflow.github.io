@@ -15,9 +15,7 @@
   <a href="https://www.gnu.org/licenses/agpl-3.0">
     <img src="https://img.shields.io/badge/License-AGPL%20v3-blue.svg" alt="License: AGPL v3">
   </a>
-  <a href="./LICENSE-QCDA">
-    <img src="https://img.shields.io/badge/license-Q--CDA-lightgrey.svg" alt="License: Q-CDA">
-  </a>
+  <a href="./LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License: Apache 2.0"></a>
   <img src="https://komarev.com/ghpvc/?username=phaedrusflow" alt="Profile Views">
   
   ![GitHub all releases](https://img.shields.io/github/downloads/phaedrusflow/phaedrusflow/total?style=flat-square)
@@ -624,3 +622,7 @@ $$K = \text{KDF}(Z')$$
 - $K$: final derived key material
 </details>
 </details>
+
+## License
+
+This project is licensed under the [Apache License, Version 2.0](./LICENSE).
