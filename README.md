@@ -1,5 +1,5 @@
 <!--Copyright (C) 2025 Qompass AI, All rights reserved-->
-<h2>Matt A. Porter</h2>
+<h2>Owner</h2>
 
 <h3>Former Intelligence Officer | Qompass AI Founder/CEO</h3>
 
@@ -286,7 +286,7 @@
   <summary><strong>About Me</strong></summary>
 
  <div align="center">
-  <p>Matthew A. Porter<br>
+  <p>Owner<br>
   <sup></sup>Qompass AI, Spokane, WA</p>
 
   <a href="mailto:&#109;&#97;&#112;&#64;&#113;&#111;&#109;&#112;&#97;&#115;&#115;&#46;&#97;&#105;">
@@ -326,7 +326,7 @@
   <h3>Professional Profiles</h3>
   <p>
     <a href="https://www.linkedin.com/in/matt-a-porter-103535224/">
-      <img src="https://img.shields.io/badge/LinkedIn-Matt--Porter-blue?style=flat-square&logo=linkedin" alt="Personal LinkedIn">
+      <img src="https://img.shields.io/badge/LinkedIn-Owner-blue?style=flat-square&logo=linkedin" alt="Personal LinkedIn">
     </a>
     <a href="https://www.linkedin.com/company/95058568/">
       <img src="https://img.shields.io/badge/LinkedIn-Qompass--AI-blue?style=flat-square&logo=linkedin" alt="Startup LinkedIn">
